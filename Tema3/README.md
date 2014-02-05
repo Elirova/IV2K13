@@ -1,4 +1,4 @@
-#**Tema 3 - Técnicas de virtualización**
+#**Tema 3 - Virtualización ligera usando contenedores**
 
 ##**Objetivos**
 

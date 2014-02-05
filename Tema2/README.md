@@ -13,4 +13,4 @@
 - [Ejercicio 03](https://github.com/Elirova/IV2K13/blob/master/Tema2/ejercicio03.md)
 - [Ejercicio 04](https://github.com/Elirova/IV2K13/blob/master/Tema2/ejercicio04.md)
 - [Ejercicio 05](https://github.com/Elirova/IV2K13/blob/master/Tema2/ejercicio05.md)
-- [Ejercicio 06]()
+- [Ejercicio 06]

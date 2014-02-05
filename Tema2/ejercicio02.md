@@ -19,6 +19,7 @@ Podemos ver las interfaces que hemos creado con el comando:
 > $ sudo brctl show 
 
 ![](../images/t2ej2-2.png)
+
 *En este caso hemos creado la interfaz ifaceiv*
 
 Para asignar la interfaz a eth0, debemos usar el comando:

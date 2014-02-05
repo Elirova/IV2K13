@@ -15,3 +15,16 @@
 - [x] Conocer el concepto de software libre y su importancia dentro de la computación nube.
 
 - [x] Usar el sistema de control de fuentes git para desarrollo colaborativo y para despliegue de aplicaciones en la nube.
+
+##**Ejercicios**
+
+- [Ejercicio 01](https://github.com/Elirova/IV2K13/blob/master/Tema1/ejercicio01.md)
+- [Ejercicio 02](https://github.com/Elirova/IV2K13/blob/master/Tema1/ejercicio02.md)
+- [Ejercicio 03](https://github.com/Elirova/IV2K13/blob/master/Tema1/ejercicio03.md)
+- Ejercicio 04
+- [Ejercicio 05](https://github.com/Elirova/IV2K13/blob/master/Tema1/ejercicio05.md)
+- [Ejercicio 06](https://github.com/Elirova/IV2K13/blob/master/Tema1/ejercicio06.md)
+- Ejercicio 07
+- Ejercicio 08
+- Ejercicio 09
+- Ejercicio 10

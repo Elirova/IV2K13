@@ -11,10 +11,10 @@ Creamos el contenedor con el siguiente comando, indicándole algunos parámetros
 
 > \# virt-install --connect qemu:///system --name=kvmBD0 --hvm --ram=256 --disk /home/xelun/Documentos/VMs/kvmBD/kvmBD.img --network network=default --noautoconsole --os-type=linux --os-variant=ubuntuprecise --boot hd 
 
-![](../images/t3ej9-1.png)
+![](../images/t3ej9-1)
 
 Ahora podemos acceder a la máquina por un entorno gráfico con el comando:
 
 > $ virt-manager
 
-![](../images/t3ej9-2.png)
+![](../images/t3ej9-3)

@@ -8,7 +8,7 @@ Lo primero que debemos comprobar es que nuestro hardware soporte la extensión d
 
 Si es compatible obtenemos en salida el mensaje siguiente:
 
-![](../images/t3ej8-1.png)
+![](../images/t3ej8-1)
 
 Tras esto podemos instalar los paquetes necesarios:
 

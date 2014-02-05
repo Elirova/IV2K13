@@ -25,7 +25,7 @@ Ahora se tiene que exponer el servicio para que pueda ser usado por el público:
 
 > \# juju expose mediawiki
 
-![](../images/t3ej7-1.png)
+![](../images/t3ej7-1)
 
 ###c) **Crear un script en shell para reproducir la configuración usada en las máquinas que hagan falta.**
 

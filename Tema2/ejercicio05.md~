@@ -19,12 +19,12 @@ Ahora podemos comenzar a instalar nginx, ejecutando las siguientes líneas de co
 
 Y lo iniciamos:
 
-![](../images/t2ej5-1.png)
+![](../images/t2ej5-1)
 
 Si, como en nuestro caso, tuviesemos iniciado otro servicio ocupando el puerto 80 (Apache en nuestro caso), tendríamos que detenerlo para poder iniciar nginx:
 
-![](../images/t2ej5-2.png)
+![](../images/t2ej5-2)
 
 Ya podemos comprobar desde cualquier navegador si se está mostrando nuestra página web:
 
-![](../images/t2ej5-3.png)
+![](../images/t2ej5-3)

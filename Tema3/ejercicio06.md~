@@ -6,7 +6,7 @@ Primero instalamos el repositorio para poder descargarlo:
 
 > \# add-apt-repository ppa:juju/stable
 
-![](../images/t3ej6-1.png)
+![](../images/t3ej6-1)
 
 Después solo nos queda actualizar los repositorios e instalar juju:
 
@@ -21,7 +21,7 @@ Primero inicializamos juju:
 
 Cambiamos la linea default: amazon en el fichero ~/.juju/environments.yaml y la sustituimos por default: local
 
-![](../images/t3ej6-2.png)
+![](../images/t3ej6-2)
 
 Con esto indicamos que vamos a trabajar localmente.
 
@@ -41,8 +41,8 @@ Una vez instalado podemos ver si lo ha hecho correctamente y el estado del tápe
 
 > \# sudo juju status
 
-![](../images/t3ej6-3.png)
+![](../images/t3ej6-3)
 
 Aunque en la imagen anterior se ve que el servicio está pendiente, tras un rato, al mirar el estado ya está iniciado:
 
-![](../images/t3ej6-4.png)
+![](../images/t3ej6-4)

@@ -20,7 +20,7 @@ Deberemos montar la carpeta proc para que funcione:
 
 > $ sudo mount -t proc proc /proc
 
-![](../images/t2ej3-1.png)
+![](../images/t2ej3-1)
 
 Creamos ahora una carpeta para el sistema fedora, al igual que antes:
 

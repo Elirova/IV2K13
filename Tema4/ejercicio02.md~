@@ -11,13 +11,13 @@ Después añadimos en la maquina virtual un usuario y lo añadimos al grupo fuse
 > $ sudo useradd ubuntu
 > $ sudo usermod -a -G fuse ubuntu
 
-![](../images/t4ej2-1.png)
+![](../images/t4ej2-1)
 
 Ahora comprobamos la dirección IP de la máquina vistual. Para ello ejecutamos el comando:
 
 >$ ifconfig
 
-![](../images/t4ej2-2.png)
+![](../images/t4ej2-2)
 
 Iniciamos sesión con el usuario creado o bien cambiamos de usuario si ya hemos iniciado con otro con el comando:
 
@@ -25,11 +25,11 @@ Iniciamos sesión con el usuario creado o bien cambiamos de usuario si ya hemos 
 
 Con esto ya puedes crear una carpeta o fichero en el home del usuario ubuntu que sea el que se va a montar en la máquina local:
 
-![](../images/t4ej2-3.png)
+![](../images/t4ej2-3)
 
 Tras esto solo queda ejecutar el comando sshfs desde la máquina local, indicando el fichero donde se montará:
 
-![](../images/t4ej2-4.png)
+![](../images/t4ej2-4)
 Con esto ya podremos acceder al ficher hola-txt existente en nuestra máquina virtual desde nuestro fichero prueba:
 
-![](../images/t4ej2-5.png)
+![](../images/t4ej2-5)

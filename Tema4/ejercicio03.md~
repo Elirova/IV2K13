@@ -40,6 +40,8 @@ Ahora le damos el formato que queremos (en este caso ext4) a los loops que hemos
 
 > $ sudo mkfs.ext4 /dev/loopX
 
+
+
 Montamos las imagenes con el comando:
 
 > $ sudo mount /dev/loop0 /mnt/raw/

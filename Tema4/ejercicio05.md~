@@ -6,7 +6,7 @@ Para ello usamos el comando:
 
 > $ sudo apt-get install ceph-mds
 
-![](../images/t4ej5-1.png)
+![](../images/t4ej5-1)
 
 Creamos los directorios donde se alojará la información de ceph:
 

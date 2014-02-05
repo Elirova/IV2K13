@@ -14,13 +14,13 @@ Y, tras la instalación:
 
 > \# service apache2 start
 
-![](../images/t2ej4-1.png)
+![](../images/t2ej4-1)
 
 Modificamos la página html que nos mostrará con el comando:
 
 > \# vim /var/www/html/index.html
 
-![](../images/t2ej4-2.png)
+![](../images/t2ej4-2)
 
 Podemos usar cualquier editor de texto, yo he usado vim, para ello primero se tiene que instalar:
 
@@ -28,4 +28,4 @@ Podemos usar cualquier editor de texto, yo he usado vim, para ello primero se ti
 
 Con el servidor en funcionamiento ya podemos acceder a nuestra página web desde cualquier navegador:
 
-![](../images/t2ej4-3.png)
+![](../images/t2ej4-3)

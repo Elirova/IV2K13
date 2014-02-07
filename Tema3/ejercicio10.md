@@ -7,7 +7,7 @@ Primero añadimos las llaves y el repositorio de Docker usando los comandos:
 > \# sh -c "curl https://get.docker.io/gpg | apt-key add - 
 > \# sh -c "echo deb https://get.docker.io/ubuntu docker main > /etc/apt/sources.list.d/docker.list.
 
-![](../images/t3ej4-1.png)
+![](../images/t3ej10-1.png)
 
 Tras esto actualizamos el sistema:
 
@@ -21,7 +21,7 @@ Para trabajar con Docker primero debemos introducirnos en su terminal. Para ello
 
 > \# docker run -i -t ubuntu /bin/bash
 
-![](../images/t3ej4-2.png)
+![](../images/t3ej10-2.png)
 
 Para salir de esta terminal tan solo hace falta escribir:
 

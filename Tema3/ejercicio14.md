@@ -16,11 +16,11 @@ En ella habremos ejecutado los siguientes comandos:
 > \# easy_install feedparser
 > \# easy_install tweepy
 
-![](../images/t1ej14-1.png)
-![](../images/t1ej14-2.png)
-![](../images/t1ej14-3.png)
-![](../images/t1ej14-4.png)
-![](../images/t1ej14-5.png)
+![](../images/t3ej14-1.png)
+![](../images/t3ej14-2.png)
+![](../images/t3ej14-3.png)
+![](../images/t3ej14-4.png)
+![](../images/t3ej14-5.png)
 
 
 Con esto ya tendremos todos los programas necesarios para ejecutar nuestra aplicación de DAI con los paquetes:
@@ -35,4 +35,4 @@ Con esto ya tendremos todos los programas necesarios para ejecutar nuestra aplic
 * feedparser
 * tweepy
 
-![](../images/t1ej14-6.png)
+![](../images/t3ej14-6.png)

@@ -31,22 +31,24 @@ Ahora se tiene que exponer el servicio para que pueda ser usado por el público:
 
 El script para reproducir la configuración es el siguiente (debe llamarse con permisos de administrador):
 
-> \#!/bin/bash
-\# Script para reproducir la instalacion de juju con mysql y mediawiki
-\# Instalamos juju si no lo estaba y actualizamos la máquina
+```
+#!/bin/bash
+# Script para reproducir la instalacion de juju con mysql y mediawiki
+# Instalamos juju si no lo estaba y actualizamos la máquina
 add-apt-repository ppa:juju/stable
 apt-get update
 apt-get install juju-core
-\#Iniciamos juju
+#Iniciamos juju
 juju init
-\# Seleccionar un entorno de trabajo local
+# Seleccionar un entorno de trabajo local
 juju switch local
-\# Crear el contenedor
+# Crear el contenedor
 juju bootstrap
-\# Instalamos mediawiki y mysql
+# Instalamos mediawiki y mysql
 juju deploy mediawiki
 juju deploy mysql
-\# Crear la relación entre mediawiki y mysql
+# Crear la relación entre mediawiki y mysql
 juju add-relation mediawiki:db mysql
-\# Exponemos el servicio de mediawiki al publico
+# Exponemos el servicio de mediawiki al publico
 juju expose mediawiki
+```

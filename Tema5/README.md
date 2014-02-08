@@ -11,7 +11,6 @@
 
 - [Ejercicio 01](https://github.com/Elirova/IV2K13/blob/master/Tema5/ejercicio01.md)
 - [Ejercicio 02](https://github.com/Elirova/IV2K13/blob/master/Tema5/ejercicio02.md)
-- [Ejercicio 03]
 - [Ejercicio 04](https://github.com/Elirova/IV2K13/blob/master/Tema5/ejercicio04.md)
 - [Ejercicio 05](https://github.com/Elirova/IV2K13/blob/master/Tema5/ejercicio05.md)
 - [Ejercicio 06](https://github.com/Elirova/IV2K13/blob/master/Tema5/ejercicio06.md)
